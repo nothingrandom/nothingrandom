@@ -1,6 +1,6 @@
 ## Hey there, I'm Benjamin Hollway aka [nothingrandom](https://nothingrandom.com) 👋🏻
 
-I'm Benjamin, a lead javascript / frontend engineer, based in Amsterdam.
+I'm Benjamin, a lead javascript / frontend engineer, based on the road.
 
 Mostly working with React/Vue.js, with a mix of the latest ES/ECMA spec, TypeScript, S/CSS, and pure magic.
 
