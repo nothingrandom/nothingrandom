@@ -2,7 +2,7 @@
 
 I'm Benjamin, a lead javascript / frontend engineer, based on the road.
 
-Mostly working with React/Vue.js, with a mix of the latest ES/ECMA spec, TypeScript, S/CSS, and pure magic.
+Mostly working with React/Vue.js, with a mix of the latest ES/ECMA spec, TypeScript, S/CSS, and a sprinkle of magic.
 
 When not wrangling a frontend, I love to cook food, cycle, play frisbee with Nova, mix live sound, listen to almost any genre of music (and make noise), contribute to open source, hike in the mountains, and spend time with my wife, Indy.
 
