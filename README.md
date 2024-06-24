@@ -1,4 +1,4 @@
-## Hey there, I'm Benjamin Grant or Be - [nothingrandom](https://b.nothingrandom.studio) 👋🏻
+## Hey there, I'm Benjamin Grant or Be - [nothingrandom](https://begrant.io) 👋🏻
 
 I'm Benjamin, a lead javascript / frontend engineer, based in Brighton.
 
